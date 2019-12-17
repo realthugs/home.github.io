@@ -1,1 +1,1 @@
-# home.github.io
+# hosting.github.io
